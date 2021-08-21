@@ -46,23 +46,5 @@
     padding: 0;
     margin: 0;
     list-style: none;
-    margin-left: -50px;
-}
-.sidebarFriend {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 15px;
     
-    
-}
-.sidebarFriendImg{
-   width: 32px;
-   height: 32px;
-   border-radius: 50%;
-   object-fit: cover;
-   padding-left: 0;
-   margin-left: 0;
-}
-.sidebarFriendName{
-    margin: 5px;
 }
